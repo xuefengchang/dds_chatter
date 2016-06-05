@@ -1,0 +1,4 @@
+/home/cxf/dds_chatter/build/CMakeFiles/chatter.dir
+/home/cxf/dds_chatter/build/CMakeFiles/discovery.dir
+/home/cxf/dds_chatter/build/CMakeFiles/messageboard.dir
+/home/cxf/dds_chatter/build/CMakeFiles/userload.dir
